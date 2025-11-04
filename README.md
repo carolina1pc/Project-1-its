@@ -25,15 +25,12 @@ The main goal of this project was to practice front-end development concepts and
 
 Structuring HTML content
 
+Styling with CSS
+
+Using Bootstrap components and utilities
+
+
 <img width="1602" height="864" alt="image" src="https://github.com/user-attachments/assets/0bda3b5d-6f57-4e4a-bfe7-e866efcc747c" />
 <img width="1794" height="811" alt="image" src="https://github.com/user-attachments/assets/d520845f-58e0-4d2e-81d9-1166d18a5d0a" />
 <img width="1837" height="828" alt="image" src="https://github.com/user-attachments/assets/1ac0cf4f-3cf8-4d82-86f3-f91aa1605305" />
 <img width="1558" height="850" alt="image" src="https://github.com/user-attachments/assets/37575816-ecb6-4deb-913e-b91dd31b529c" />
-
-
-
-
-
-Styling with CSS
-
-Using Bootstrap components and utilities
